@@ -19,11 +19,19 @@ A modern Android-based Smart Parking System that enables users to efficiently ma
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 - Java
 - Android Studio
 - XML
-- Gradle
-- REST API Integration
+- Gradle (Kotlin DSL)
+- Retrofit
+- Gson
+- OkHttp Logging Interceptor
+- ZXing (QR Code Scanner)
+- REST APIs
+- AndroidX
+- Material Design Components
 
 ---
 
