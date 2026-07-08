@@ -19,8 +19,6 @@ A modern Android-based Smart Parking System that enables users to efficiently ma
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 - Java
 - Android Studio
 - XML
@@ -96,7 +94,6 @@ git clone https://github.com/yourusername/SmartParkingSystem.git
 
 ## 📌 Future Improvements
 
-- Firebase Authentication
 - Cloud Firestore Integration
 - Push Notifications
 - QR Code Based Entry & Exit
@@ -120,6 +117,6 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author:Sakina muzzammil
+## 👨‍💻 Author:Sakina Muzzammil
 
 
