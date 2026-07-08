@@ -46,7 +46,7 @@ SmartParkingSystem/
 ![Login](login.png)
 
 ### Vehicle Registration
-![Vehicle Registration](vehicale-registration.png)
+![Vehicle Registration](vehicle-registration.png)
 
 ### Payment
 ![Payment](payment.png)
