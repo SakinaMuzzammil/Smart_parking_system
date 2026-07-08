@@ -122,4 +122,4 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author:Sakina muzzammil
 
-Developed as an Android Smart Parking System project for learning and portfolio purposes
+
